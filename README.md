@@ -1,2 +1,4 @@
-# .github
-Directly Information
+# Directly
+This is a small organisation 
+
+## Projects
